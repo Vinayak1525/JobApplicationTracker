@@ -1,0 +1,107 @@
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.csproj.AssemblyReference.cache
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfoInputs.cache
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfo.cs
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\appsettings.json
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.exe
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.deps.json
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.runtimeconfig.json
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.pdb
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Application Repo\JobApplicationTrackerServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.JobApplicationTracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.build.JobApplicationTracker.props
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JobApplicationTracker.props
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JobApplicationTracker.props
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\scopedcss\bundle\JobApplicationTracker.styles.css
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobAppli.19FF3A0A.Up2Date
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.dll
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\refint\JobApplicationTracker.dll
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.pdb
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.genruntimeconfig.cache
+C:\Application Repo\JobApplicationTrackerServer\obj\Debug\net8.0\ref\JobApplicationTracker.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\appsettings.Development.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\appsettings.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.staticwebassets.endpoints.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.exe
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.deps.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.runtimeconfig.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.pdb
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.csproj.AssemblyReference.cache
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfoInputs.cache
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.AssemblyInfo.cs
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.MvcApplicationPartsAssemblyInfo.cs
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\scopedcss\bundle\JobApplicationTracker.styles.css
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.JobApplicationTracker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.JobApplicationTracker.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.build.JobApplicationTracker.props
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JobApplicationTracker.props
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JobApplicationTracker.props
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobAppli.19FF3A0A.Up2Date
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\refint\JobApplicationTracker.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.pdb
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.genruntimeconfig.cache
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\ref\JobApplicationTracker.dll
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\bin\Debug\net8.0\JobApplicationTracker.xml
+D:\DATACOM APPLICATION REPO\JobApplicationTrackerServer\obj\Debug\net8.0\JobApplicationTracker.xml

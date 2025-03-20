@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JobApplicationTracker</name>
+    </assembly>
+    <members>
+        <member name="M:JobApplicationTrackerServer.Controllers.JobApplicationController.GetAll">
+            <summary>
+            Gets all the applications.
+            </summary>
+            <returns>The applications if exists.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Controllers.JobApplicationController.GetById(System.Int32)">
+            <summary>
+            gets an application by id.
+            </summary>
+            <param name="id">Id of the application.</param>
+            <returns>The application if exists.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Controllers.JobApplicationController.Create(JobApplicationTrackerServer.Models.JobApplication)">
+            <summary>
+            Adds new application.
+            </summary>
+            <param name="application">Application which needs to be created.</param>
+            <returns>The newly added application.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Controllers.JobApplicationController.Update(System.Int32,JobApplicationTrackerServer.Models.JobApplication)">
+            <summary>
+            Updates existing application.
+            </summary>
+            <param name="id">Id of the application.</param>
+            <param name="application">Application which needs to be updated.</param>
+            <returns>The status code.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Controllers.JobApplicationController.Delete(System.Int32)">
+            <summary>
+            Deletes an application by id.
+            </summary>
+            <param name="id">The id of the application which needs to be deleted</param>
+            <returns>The status code.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Data.ApplicationDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{JobApplicationTrackerServer.Data.ApplicationDbContext})">
+            <summary>
+            Initializes a new instance of the ApplicationDbContext class.
+            </summary>
+            <param name="options">Custom options for the application database context.</param>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Data.ApplicationDbContext.JobApplications">
+            <summary>
+            The Job applications
+            </summary>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Models.JobApplication.Id">
+            <summary>
+            The id of the application.
+            </summary>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Models.JobApplication.CompanyName">
+            <summary>
+            The company name associated with the application.
+            </summary>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Models.JobApplication.Position">
+            <summary>
+            The position associated with the application.
+            </summary>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Models.JobApplication.Status">
+            <summary>
+            The status associated with the application.
+            </summary>
+        </member>
+        <member name="P:JobApplicationTrackerServer.Models.JobApplication.DateApplied">
+            <summary>
+            The applied data of this application.
+            </summary>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.IJobApplicationRepository.GetAllAsync">
+            <summary>
+            Gets all Applications.
+            </summary>
+            <returns>A list of all applications.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.IJobApplicationRepository.GetByIdAsync(System.Int32)">
+            <summary>
+            Gets an application by id.
+            </summary>
+            <param name="id">Id of the application to be retrived.</param>
+            <returns>The application if exists.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.IJobApplicationRepository.AddAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <summary>
+            Adds a new application.
+            </summary>
+            <param name="application">New application to be added.</param>
+            <returns>The newly added application.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.IJobApplicationRepository.UpdateAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <summary>
+            Updates an existing application.
+            </summary>
+            <param name="application">Application to be updated.</param>
+            <returns>The status code.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.IJobApplicationRepository.DeleteAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <summary>
+            Deletes an application.
+            </summary>
+            <param name="application">Application to be deleted.</param>
+            <returns>The status code.</returns>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.JobApplicationRepository.GetAllAsync">
+            <inheritdoc/>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.JobApplicationRepository.GetByIdAsync(System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.JobApplicationRepository.AddAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <inheritdoc/>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.JobApplicationRepository.UpdateAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <inheritdoc/>
+        </member>
+        <member name="M:JobApplicationTrackerServer.Repository.JobApplicationRepository.DeleteAsync(JobApplicationTrackerServer.Models.JobApplication)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
