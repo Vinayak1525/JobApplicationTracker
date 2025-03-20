@@ -4,7 +4,7 @@ This project consists of:
 
     Backend: ASP.NET Core Web API (uses an in-memory database)
 
-    Frontend: React
+    Frontend: React.js, Axios, CSS
     
 
 Prerequisites
@@ -13,33 +13,36 @@ Prerequisites
 Before running the project, ensure you have the following installed:
 
 .NET SDK
-
 Node.js & npm
+Axios for API Calls
+
+    Clone Repository and run the server:
+    
+        1. git clone https://github.com/Vinayak1525/JobApplicationTracker.git
+        2. cd JobApplicationTracker
+        3. cd JobApplicationTrackerServer
+        4. dotnet run -- project JobApplicationTrackerTracker.csproj
+        5. Use the url for the server: http://localhost:5203/api/JobApplication
+    
+    Open Swagger UI:
+    
+        1. Once the application is running, open Swagger UI via the url: 
+            http://localhost:5203/swagger/index.html
+        
+    Running the front-end:
+    
+        (Assuming you have already run the git clone command)
+        1. cd JobApplicationTracker
+        2. cd JobApplicationTrackerClient
+        3. npm install
+        4. npm start
+        5. Frontend will be available at: http://localhost:5173/
+    
+
+You can build the server project using the command:
+    dotnet build JobApplicationTrackerServer.csproj
 
 
-
-    Running the Project:
-
-    	1. Start the Backend (ASP.NET Core Web API)
-    
-            Navigate to the Server directory
-    
-            Restore dependencies
-    
-            Run the application:
-    
-            API will be available at: http://localhost:5203/api/JobApplication/
-    
-    
-    	2. Start the Frontend (React with Vite)
-    
-            Navigate to the Client directory
-    
-            Install dependencies
-    
-            Start the development server
-    
-            Frontend will be available at: http://localhost:5173/
             
 
 API Configuration (If Needed)
